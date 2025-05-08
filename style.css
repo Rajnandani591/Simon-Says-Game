@@ -5,36 +5,30 @@ body{
 .btn{
     height: 200px;
     width: 200px;
-    border-radius: 20%;
-    border: 10px solid black;
-    margin: 2.5rem;
+    border: 7.5px solid black;
+    border-radius: 30px ;
+    margin: 2em;
 }
-
 .btn-container{
-    display: flex;
-    justify-content: center;
+display: flex;
+justify-content: center;
 }
-
-.yellow{
-    background-color: #f99b45;
-}
-
 .red{
-    background-color: #d95980;
-}
-
-.purple{
     background-color: #819ff9;
 }
+.blue{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
 
+}
 .green{
     background-color: #63aac0;
 }
-
 .flash{
     background-color: white;
 }
-
 .userFlash{
-    background-color: green;
+    background-color: green ;
 }
